@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-family: "Roboto", sans-serif;
+}
+
+body{
+    background: rgb(39, 37, 37);
+    color: white;
+}
+
+//----------- Use here our variables 
+$primary:salmon;
+
+.container{
+    width: 80%;
+    margin:5px auto;
+}
+
+.m-3{
+    margin: 3px auto;
+}
+
+.text-highlight{
+    color: $primary;
+    font-weight: bold;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+.flex-col{
+    flex-direction: column;
+}
+
+//---------- Employ salary stuff
+#EmploySalary{
+    border: 2px solid saddlebrown;
+    border-radius: 12px;
+    margin: 5px auto;
+    font-weight: bold;
+    cursor: pointer;
+    width: 100%;
+}
+
+#EmployeAge{
+    cursor: pointer;
+    padding: 5px;
+    margin: auto;
+    width: 80%;
+    margin: 7px auto;
+}

@@ -1,0 +1,46 @@
+$td-border:black;
+
+$th-bg:#382f2f;
+
+$btn:#f44336;
+$btn-hover:#d32f2f;
+
+
+
+.employee-table {
+    cursor: pointer;
+    width: 100%;
+    border-collapse: collapse;
+  
+    th, td {
+      border: 1px solid $td-border;
+      padding: 8px;
+      text-align: left;
+    }
+  
+    th {
+      background-color: $th-bg;
+    }
+  
+    tr:nth-child(even) {
+      background-color: $th-bg;
+    }
+  
+    tr:hover {
+      background-color: $td-border;
+    }
+  
+    button {
+      background-color: $btn;
+      color: white;
+      border: none;
+      padding: 6px 12px;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+  
+    button:hover {
+      background-color: $btn-hover;
+    }
+  }
+  
