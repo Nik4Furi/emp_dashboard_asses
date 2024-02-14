@@ -8,9 +8,9 @@ const employeeSalaries = [
   // Add more employee data as needed
 ];
 
-const EmployeSalary = () => (
+const EmployeSalary = ({employe}) => (
   <div>
-    <SalaryChart employeeSalaries={employeeSalaries} />
+    <SalaryChart employeeSalaries={employe} />
   </div>
 );
 

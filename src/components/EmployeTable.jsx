@@ -8,15 +8,15 @@ const EmployeeTable = ({ employees, onDelete }) => {
       <thead>
         <tr>
           <th>Name</th>
-          <th>Email</th>
+          <th>Salary</th>
           <th>Action</th>
         </tr>
       </thead>
       <tbody>
         {employees.map((employee) => (
           <tr key={employee.id}>
-            <td>{employee.name}</td>
-            <td>{employee.email}</td>
+            <td>{employee.employee_name}</td>
+            <td>{employee.employee_salary}</td>
             <td>
               <button onClick={() => onDelete(employee.id)}>Delete</button>
             </td>
