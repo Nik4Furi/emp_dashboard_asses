@@ -1,7 +1,10 @@
 # <h1 id="emp_dashboard_asses"> Employee Dashboard Visualization🚀 </h1>
 ### This is an assessment, where I visualize the employee details
 Can watch out for the employee's salaries, and their required details and age groups describing information
+
 ❌ Both of your required API calls not working so I have done this in my way.
+
+[Live](https://empdash.netlify.app/)
 
 ## Indexing the contents
 ####   <a href="#badges" >Badges</a>
