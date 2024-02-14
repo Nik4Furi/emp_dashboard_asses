@@ -1,14 +1,15 @@
-# <h1 id="emp_dashboard"> Employee Dashboard Visualization🚀 </h1>
-### This is an assessment, where I visualize the employes details
-Can watch out the employees salaries, and their required details and age groups describing information
+# <h1 id="emp_dashboard_asses"> Employee Dashboard Visualization🚀 </h1>
+### This is an assessment, where I visualize the employee details
+Can watch out for the employee's salaries, and their required details and age groups describing information
+❌ Both of your required API calls not working so I have done this in my way.
 
 ## Indexing the contents
 ####   <a href="#badges" >Badges</a>
-####   <a href="#demo" >Badges</a>
+####   <a href="#demo" >Demo & Looks 👩‍🏭</a>
 ####   <a href="#stack" >Tech Stack</a>
 ####   <a href="#runLocally" >Run Locally</a>
 ####   <a href="#envVar" >Environment Variables</a>
-####   <a href="#features" >Features</a>
+####   <a href="#feat" >Features</a>
 
 ## <h2 id="badges" >Badges </h2>
 
@@ -26,10 +27,10 @@ Can watch out the employees salaries, and their required details and age groups 
 ## <h2 id="demo" >Demo & Looks</h2>
 
 <p text-align=left>
-  <img src="https://user-images.githubusercontent.com/91304976/203494510-77735dad-2653-4835-8d86-8915b384abeb.gif" width="500" height="" alt="fshare_home"/>
-    
-    
-  <img src="https://user-images.githubusercontent.com/91304976/203494536-92cc8b0e-1189-4e22-b6c0-81c07418cfcc.gif" width="500" height="" alt="fshare_download"/>  
+
+  <img src="https://github.com/Nik4Furi/emp_dashboard_asses/assets/91304976/d9619e7d-5d0c-4666-aa55-df78e8e6f4c5" width="500" height="" alt="dashboard"/>
+     
+  <img src="https://github.com/Nik4Furi/emp_dashboard_asses/assets/91304976/788fb659-3f6d-4acb-8afa-fb417df37610" width="300" height="" alt="dashboard"/>  
 </p>
 
 <a href="#emp_dashboard_asses">Go Home </a>
@@ -78,10 +79,9 @@ To run this project, you will need to add the following environment variables to
 <a href="#emp_dashboard">Go Home </a>
 
 
-## <h2 id="features">Features </h2>
+## <h2 id="feat">Features </h2>
 
-- Visualize the employees data in form of charts
+- Visualize the employee's data in the form of charts
 - This is an assessment solution 
-
 
 <a href="#emp_dashboard_asses">Go Home </a>
